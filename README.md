@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Full Stack Developer | 🧠 Lifelong Learner | 🚀 Tech Enthusiast <br />
-  🎓 OMSCS @ Georgia Tech <br />
+  🎓 MSCS @ Georgia Tech <br />
   🌐 Building scalable apps with React, Node.js, Python & AWS <br />
   📫 <a href="mailto:pahuldeepsingh12@gmail.com">pahuldeepsingh12@gmail.com</a> | 🌍 <a href="https://www.pahuldeip.com">www.pahuldeip.com</a>
 </p>
