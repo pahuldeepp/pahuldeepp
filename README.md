@@ -12,6 +12,7 @@
 ### 🚀 Projects I'm Proud Of
 
 - 🔥 [**Forever E-commerce**](https://github.com/pahuldeepp/Forever): Full-featured MERN stack store with admin panel, filtering, and JWT-auth.
+- 🌍 [**TravelMania**](https://github.com/pahuldeepp/TravelMania): A sleek and modern car rental and booking web app built with React, TailwindCSS, and Next.js for seamless UI and routing.
 - 🧠 **AI Chat Assistant** *(Coming Soon)*: Python-based LLM assistant with memory and query tracking.
 - 📊 **DashboardX** *(Coming Soon)*: Admin analytics dashboard using React, Firebase & Chart.js.
 
