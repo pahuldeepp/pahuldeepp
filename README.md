@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Senior Software Engineer &nbsp;·&nbsp; Distributed Systems &nbsp;·&nbsp; Full Stack</b><br/>
-  🎓 MSCS @ Georgia Tech &nbsp;·&nbsp; 📍 Winnipeg, CA
+  🎓 MSCS @ Georgia Tech &nbsp;·&nbsp; 
 </p>
 
 <p align="center">
