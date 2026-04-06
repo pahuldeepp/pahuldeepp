@@ -10,24 +10,9 @@
 <p align="center">
   <a href="mailto:pahuldeepsingh12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://pahuldeepsingh.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox-browser&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/pahuldeep-singh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pahuldeep-singh-b7aa22181/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/pahuldeepp"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
-
----
-
-## 🚀 Featured Project — GrainGuard
-
-> **Production-grade distributed IoT telemetry platform** — built to Staff+/Principal Engineer spec across 4 phases.
-
-| | |
-|---|---|
-| **Throughput** | ~3,000 events/sec sustained |
-| **Architecture** | Polyglot microservices · Event sourcing · SAGA orchestration · CDC via Debezium |
-| **Stack** | Go · Kafka · gRPC + Protobuf · PostgreSQL · Redis · React/TypeScript · GraphQL BFF · Node.js · RabbitMQ · Auth0 + mTLS · OpenTelemetry · Prometheus · Grafana · Elasticsearch |
-| **Patterns** | Cursor pagination · Circuit breaker · Distributed locking · Structured logging · DLQ routing |
-
-[![GrainGuard](https://img.shields.io/badge/View_Repo-GrainGuard-1ed760?style=flat-square&logo=github&logoColor=white)](https://github.com/pahuldeepp/GrainGuard-)
 
 ---
 
