@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Senior Software Engineer &nbsp;·&nbsp; Distributed Systems &nbsp;·&nbsp; Full Stack</b><br/>
-  🎓 MSCS @ Georgia Tech &nbsp;·&nbsp; 
+  🎓 MSCS @ Georgia Tech
 </p>
 
 <p align="center">
@@ -43,6 +43,7 @@
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vue.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **Backend & Data**
